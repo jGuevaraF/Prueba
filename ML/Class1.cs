@@ -9,7 +9,7 @@ namespace ML
     public class Class1
     {
 
-
+        public int IdEmpleado { get; set; }
 
 
     }
