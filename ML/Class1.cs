@@ -11,6 +11,5 @@ namespace ML
 
         public int IdEmpleado { get; set; }
 
-
     }
 }
