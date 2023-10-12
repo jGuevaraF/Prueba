@@ -8,5 +8,7 @@ namespace ML
 {
     public class Class1
     {
+
+        public string Nombre { get; set; }
     }
 }
