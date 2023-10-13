@@ -11,5 +11,7 @@ namespace ML
 
         public int IdEmpleado { get; set; }
 
+        public int Propiedad { get; set; }
+
     }
 }
