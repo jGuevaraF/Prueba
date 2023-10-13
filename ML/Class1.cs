@@ -13,5 +13,7 @@ namespace ML
 
         public int Propiedad { get; set; }
 
+        public int Propiedad2 { get; set; }
+
     }
 }
